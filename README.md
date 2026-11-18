@@ -21,5 +21,5 @@ b). Pembagian Data
      - C = 10
 
   3. Struktur File:
-    - Mall_Customers.csv (file dataset)
-    - Kodingan_Support_Vector_Machine.py (file program Python)   
+     a). Mall_Customers.csv (file dataset)
+     b). Kodingan_Support_Vector_Machine.py (file program Python)   
