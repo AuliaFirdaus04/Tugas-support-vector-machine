@@ -1,6 +1,7 @@
 # Tugas-support-vector-machine
 
 1. Jumlah dan Pembagian Data:
+   
    a). Total Dataset(Customer Mall)
         Terdiri dari 200 baris data dan 5 kolom:
         - CustomerID,
@@ -21,5 +22,6 @@
      - C = 10
 
 3. Struktur File:
+   
      a). Mall_Customers.csv (file dataset)
      b). Kodingan_Support_Vector_Machine.py (file program Python)   
